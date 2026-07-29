@@ -1,5 +1,3 @@
-# swalytics-multi-agent-ai
-
 # Swalytics: Multi-Agent AI Analytics Platform
 
 Swalytics is a multi-agent AI-powered analytics platform that automates data analysis through an **Analyze → Code → Execute** workflow. Users can upload datasets and ask questions in natural language, while the platform generates Python code, executes analytical workflows, validates results, and produces interactive insights and visualizations.
