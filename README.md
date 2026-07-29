@@ -60,3 +60,13 @@ The final output includes:
 - Visualizations
 - Insights
 - Generated Python code
+
+# Tech Stack
+
+- DeepAnalyze-8B
+- Gemini
+- Large Language Models (LLMs)
+- Multi-Agent AI
+- Prompt Engineering
+- Automated Code Generation
+
